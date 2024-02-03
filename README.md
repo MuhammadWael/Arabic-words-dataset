@@ -12,7 +12,7 @@ This dataset consists of handwritten Arabic words created by our team for the pu
 
 - **Way of typing:** Each of team members wrote part of the words on his mobile using whiteboard app by bare hands (without using touch pen) 
   
-- **Contributors:** The dataset was created by the team mentioned below for the purpose of developing an educational game. See 
+- **Contributors:** The dataset was created by the team mentioned below for the purpose of developing an educational game.
 
 We would like to acknowledge and express our gratitude to the following team members who contributed to the creation of this dataset:
 

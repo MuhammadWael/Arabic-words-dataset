@@ -18,9 +18,9 @@ We would like to acknowledge and express our gratitude to the following team mem
 
 - **[Abdelrahman Sabry](https://github.com/sabrysm)** 🔧
 
-- **[Mohamemd Samy Ali](https://github.com/Mohamedgaballah7)** 🚀
+- **[Mohamed Samir](https://github.com/Mido1ggg)** 📚
 
-- **[Team Member 3](https://github.com/teammember3)** 📚
+- **[Mohamemd Samy Ali](https://github.com/Mohamedgaballah7)** 🚀
 
 Feel free to reach out to any of our team members if you have questions or feedback related to this dataset.
 

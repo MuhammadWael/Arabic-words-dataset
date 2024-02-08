@@ -30,7 +30,8 @@ Feel free to reach out to any of our team members if you have questions or feedb
 
 
 - **Language:** Arabic
-
+## Usage 
+- for Using the full dataset (combination of diffrent fonts & handwritten Data) **download** full_DataSet.rar
 ## License
 
 This dataset is released under the MIT License. See the [LICENSE](LICENSE) file for details.
